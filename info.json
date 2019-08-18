@@ -9,28 +9,6 @@
         "types_data": {
             "block": {
                 "categories": [
-                    "404 page",
-                    "about",
-                    "archive",
-                    "call to action",
-                    "clients",
-                    "contact",
-                    "faq",
-                    "features",
-                    "footer",
-                    "header",
-                    "hero",
-                    "portfolio",
-                    "pricing",
-                    "product archive",
-                    "services",
-                    "single page",
-                    "single post",
-                    "single product",
-                    "stats",
-                    "subscribe",
-                    "team",
-                    "testimonials"
                 ]
             },
             "popup": {
